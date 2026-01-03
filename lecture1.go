@@ -29,8 +29,7 @@ func main() {
 	var anothervariable int 
 	fmt.Println(anothervariable)
 	fmt.Printf("variable is of type : %T\n" , anothervariable)
-
-
+	
 	//implicit type declare
 	var website = "harsha.com"
 	fmt.Println(website)
